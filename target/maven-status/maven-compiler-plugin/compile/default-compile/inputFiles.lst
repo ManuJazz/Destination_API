@@ -1,0 +1,13 @@
+/projects/Destination_API/src/gen/java/io/swagger/api/DestinationApiService.java
+/projects/Destination_API/src/gen/java/io/swagger/api/StringUtil.java
+/projects/Destination_API/src/main/java/io/swagger/api/impl/DestinationApiServiceImpl.java
+/projects/Destination_API/src/main/java/io/swagger/api/factories/DestinationApiServiceFactory.java
+/projects/Destination_API/src/main/java/io/swagger/api/Bootstrap.java
+/projects/Destination_API/src/gen/java/io/swagger/api/ApiException.java
+/projects/Destination_API/src/gen/java/io/swagger/api/DestinationApi.java
+/projects/Destination_API/src/gen/java/io/swagger/api/JacksonJsonProvider.java
+/projects/Destination_API/src/gen/java/io/swagger/api/ApiResponseMessage.java
+/projects/Destination_API/src/gen/java/io/swagger/model/DestinationItem.java
+/projects/Destination_API/src/gen/java/io/swagger/api/ApiOriginFilter.java
+/projects/Destination_API/src/gen/java/io/swagger/api/RFC3339DateFormat.java
+/projects/Destination_API/src/gen/java/io/swagger/api/NotFoundException.java
