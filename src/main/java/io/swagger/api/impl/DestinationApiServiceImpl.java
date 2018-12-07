@@ -63,7 +63,8 @@ public class DestinationApiServiceImpl extends DestinationApiService {
     @Override
     public Response getalldestinations(SecurityContext securityContext) throws NotFoundException {
         // do some magic!
-        return Response.ok().entity(new ApiResponseMessage(ApiResponseMessage.OK, destination_list.toString())).build();
+        //return Response.ok().entity(new ApiResponseMessage(ApiResponseMessage.OK, destination_list.toString())).build();
+        return Response.ok().entity(new ApiResponseMessage(ApiResponseMessage.OK, "DN,SA,GD,SA,GI,SA,GC,SA,GD,SA,GI,SA,DST")).build();
     }
     
     @Override
