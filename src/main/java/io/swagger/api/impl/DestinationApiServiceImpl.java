@@ -58,7 +58,7 @@ public class DestinationApiServiceImpl extends DestinationApiService {
             }
         }
         //return Response.ok().entity(new ApiResponseMessage(ApiResponseMessage.ERROR, "Destination not found!")).build();
-        return Response.ok().entity(new ApiResponseMessage(ApiResponseMessage.ERROR, "DN[-36.48486[6.848948,SA[-36.48485[6.848963,GD[-36.48422[6.848975,SA[-36.48400[6.848989,GI[-36.48408[6.848948,SA[-36.48411[6.848996,GC[-36.48490[6.848948")).build();
+        return Response.ok().entity(new ApiResponseMessage(ApiResponseMessage.OK, "DN[-36.48486[6.848948,SA[-36.48485[6.848963,GD[-36.48422[6.848975,SA[-36.48400[6.848989,GI[-36.48408[6.848948,SA[-36.48411[6.848996,GC[-36.48490[6.848948")).build();
     }
     
     @Override
